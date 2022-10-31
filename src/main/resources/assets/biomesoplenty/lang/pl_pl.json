@@ -3,17 +3,17 @@
     "advancements.biomesoplenty.root.description": "Marzenie odkrywcy...",
     "advancements.biomesoplenty.all_biomes.title": "Wędrowiec",
     "advancements.biomesoplenty.all_biomes.description": "Odkryj wszystkie biomy w Biomes O' Plenty",
-
+    
+    "commands.biomesoplenty.gendata.success": "Pomyślnie wygenerowane dane",
     "generator.minecraft.biomesoplenty": "Biomes O' Plenty",
     "itemGroup.biomesoplenty": "Biomes O' Plenty",
 
-    "biome.biomesoplenty.alps": "Alpy",
-    "biome.biomesoplenty.alps_foothills": "Pogórza alp",
     "biome.biomesoplenty.bamboo_blossom_grove": "Zagajnik kwitnących bambusów",
     "biome.biomesoplenty.bayou": "Zalewisko",
-    "biome.biomesoplenty.bayou_mangrove": "Zalany las namorzynowy",
+    "biome.biomesoplenty.bog": "Torfowisko",
+    "biome.biomesoplenty.boreal_forest": "Borealny Las",
+    "biome.biomesoplenty.cherry_blossom_grove": "Gaj Kwitnącej Wiśni",
     "biome.biomesoplenty.burnt_forest": "Spalony las",
-    "biome.biomesoplenty.cherry_blossom_grove": "Gaj wiśniowy",
     "biome.biomesoplenty.cold_desert": "Zimna pustynia",
     "biome.biomesoplenty.coniferous_forest": "Las iglasty",
     "biome.biomesoplenty.coniferous_lakes": "Jeziora lasu iglastego",
