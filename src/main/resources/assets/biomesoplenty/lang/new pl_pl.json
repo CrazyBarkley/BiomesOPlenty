@@ -203,7 +203,7 @@
     "block.biomesoplenty.hellbark_planks": "Piekielne deski",
     "block.biomesoplenty.hellbark_pressure_plate": "Piekielna płyta naciskowa",
     "block.biomesoplenty.hellbark_sapling": "Piekielna sadzonka",
-    "block.biomesoplenty.hellbark_sign": "Piekielna tabliczka"
+    "block.biomesoplenty.hellbark_sign": "Piekielna tabliczka",
     "block.biomesoplenty.hellbark_slab": "Piekielna płyta",
     "block.biomesoplenty.hellbark_stairs": "Piekielne schody",
     "block.biomesoplenty.hellbark_trapdoor": "Piekielna klapa",
@@ -254,7 +254,7 @@
     "block.biomesoplenty.mahogany_sign": "Mahoniowa tabliczka",
     "block.biomesoplenty.mahogany_slab": "Mahoniowa płyta",
     "block.biomesoplenty.mahogany_stairs": "Mahoniowe schody",
-    "block.biomesoplenty.mahogany_trapdoor": "Mahoniowa klapa"
+    "block.biomesoplenty.mahogany_trapdoor": "Mahoniowa klapa",
     "block.biomesoplenty.mahogany_wall_sign": "Mahoniowa ścienna tabliczka",
     "block.biomesoplenty.mahogany_wood": "Mahoniowe drewno",
     "block.biomesoplenty.maple_leaves": "Klonowe liśćie",
@@ -304,7 +304,7 @@
     "block.biomesoplenty.potted_magic_sapling": "Magiczna sadzonka w doniczce",
     "block.biomesoplenty.potted_mahogany_sapling": "Mahoniowa sadzonka w doniczce",
     "block.biomesoplenty.potted_maple_sapling": "Klonowa sadzonka w doniczce",
-    "block.biomesoplenty.potted_orange_autumn_sapling": "Pomarańczowa jesienna sadzonka w doniczce"
+    "block.biomesoplenty.potted_orange_autumn_sapling": "Pomarańczowa jesienna sadzonka w doniczce",
     "block.biomesoplenty.potted_orange_cosmos": "Kosmos siarkowy w doniczce",
     "block.biomesoplenty.potted_origin_sapling": "Pierwotna sadzonka w doniczce",
     "block.biomesoplenty.potted_palm_sapling": "Palmowa sadzonka w doniczce",
@@ -354,7 +354,7 @@
     "block.biomesoplenty.smooth_orange_sandstone": "Gładki pomarańczowy piaskowiec",
     "block.biomesoplenty.smooth_orange_sandstone_slab": "Gładka pomarańczowa piaskowcowa płyta",
     "block.biomesoplenty.smooth_orange_sandstone_stairs": "Gładkie pomarańćzowe piaskowcowe schody",
-    "block.biomesoplenty.smooth_white_sandstone": "Gładki biały piaskowiec"
+    "block.biomesoplenty.smooth_white_sandstone": "Gładki biały piaskowiec",
     "block.biomesoplenty.smooth_white_sandstone_slab": "Gładka biała piaskowcowa płyta",
     "block.biomesoplenty.smooth_white_sandstone_stairs": "Gładkie białe piaskowcowe schody",
     "block.biomesoplenty.spanish_moss": "Oplątwa brodaczkowa",
@@ -405,7 +405,7 @@
     "block.biomesoplenty.watergrass": "Trawa wodna",
     "block.biomesoplenty.webbing": "Pajęcza sieć",
     "block.biomesoplenty.white_cherry_leaves": "Białe wiśniowe liście",
-    "block.biomesoplenty.white_cherry_sapling": "Biała wiśniowa sadzonka"
+    "block.biomesoplenty.white_cherry_sapling": "Biała wiśniowa sadzonka",
     "block.biomesoplenty.white_sand": "Biały piasek",
     "block.biomesoplenty.white_sandstone": "Biały piaskowiec",
     "block.biomesoplenty.white_sandstone_slab": "Biała piaskowcowa płyta",
